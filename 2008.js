@@ -1,0 +1,2 @@
+function DZZE(w){var t="";p=0;w.toString().split(8).forEach(l=>{var b=parseInt(l.replaceAll("2", "1"));x=l.replaceAll("2","");x=x.replaceAll("0","");if(isNaN(b)||x!=""){throw"Invalid DZZE Code"}else{t += String.fromCharCode(parseInt(b, 2))}});return t}
+DZZE.valueOf=w=>{var b=[];w.split("").forEach(c=>{b.push(c.charCodeAt(0).toString(2).replaceAll("1","2"))});return b.join(8)}
