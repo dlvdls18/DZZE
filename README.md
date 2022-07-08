@@ -14,7 +14,6 @@ DZZE("220200082200202822022008220220082202222");
 
 # Getting Started
 Download the [file](2008.js) or use [cdn](https://cdn.jsdelivr.net/gh/dlvdls18/DZZE@main/2008.js).
-You can also [Try it Online](#).
 
 # Documentation
 DZZE is a binary recreational programming language which obviously used binary.
