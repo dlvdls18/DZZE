@@ -33,7 +33,7 @@ To write your byte, just write a normal byte but replace `1` with `2`.
 220200082200202822022008220220082202222
 ```
 
-Each byte is converted to integer and converted to ASCII character.
+Each byte is converted to ASCII character.
 ```
 2200202 -> e
 ```
