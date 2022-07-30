@@ -16,7 +16,7 @@ DZZE("220200082200202822022008220220082202222");
 Download the [file](2008.js) or use [cdn](https://cdn.jsdelivr.net/gh/dlvdls18/DZZE@main/2008.js).
 
 # Documentation
-DZZE is a binary recreational programming language which obviously used binary.
+DZZE used binary.
 To write your DZZE Code. Use the function `DZZE`.
 ```js
 DZZE("220200082200202822022008220220082202222");
